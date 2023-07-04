@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "Strawberry mochi",
+		"price": 250,
+		"description": "Mochi filled with strawberry cream",
+		"category": "Fruits",
+		"image": "/images/mochi_1.jpeg"
+	},
+	{
+		"id": 2,
+		"title": "Matcha mochi",
+		"price": 300,
+		"description": "Mochi filled with matcha tea cream",
+		"category": "Fruits",
+		"image" : "/images/mochi_2.jpeg"
+	},
+	{
+		"id": 3,
+		"title": "Sesame mochi",
+		"price": 300,
+		"description": "Mochi filled with sesame cream",
+		"category": "Nuts and seeds",
+		"image" : "/images/mochi_3.jpeg"
+	},
+	{
+		"id": 4,
+		"title": "Chocolate mochi",
+		"price": 250,
+		"description": "Mochi filled with chocolate cream",
+		"category": "Fruits",
+		"image": "/images/mochi_4.jpeg"
+	},
+	{
+		"id": 5,
+		"title": "Mango mochi",
+		"price": 300,
+		"description": "Mochi filled with mango cream",
+		"category": "Fruits",
+		"image" : "/images/mochi_5.jpeg"
+	},
+	{
+		"id": 6,
+		"title": "White Chocolate mochi",
+		"price": 350,
+		"description": "Mochi filled with white chocolate cream",
+		"category": "Nuts and seeds",
+		"image" : "/images/mochi_6.jpeg"
+	}
+]
